@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210) (preloaded format=xelatex 2017.2.25)  27 JUN 2017 19:15
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210) (preloaded format=xelatex 2017.2.25)  15 JUL 2017 10:51
 entering extended mode
 **"C:/Users/Aaron Wubshet/Google Drive/1 College/2 Sophomore Year/4 Resumes and
  Cover Letters/Latex Files for Resume/aaron wubshet.tex"
@@ -991,78 +991,73 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 
 File: resume_image.png Graphic file (type QTm)
 <use  "resume_image.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 |[]\TU/Lato-Bol(0)/bx/n/12 MASSACHUSETTS INSTITUTE
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 164.
+(hyperref)                removing `\hfill' on input line 171.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 176.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 |[]\TU/Lato-Bol(0)/bx/n/12 TECHNICAL|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 |[]\TU/Lato-Bol(0)/bx/n/12 LEADERSHIP|
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 197--197
-|[]\TU/Lato-Bol(0)/bx/n/12 SPACE SYSTEMS LABORATORY
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 211.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 197.
+(hyperref)                removing `\hfill' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 200.
+(hyperref)                removing `\hfill' on input line 215.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 201.
+(hyperref)                removing `\hfill' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 204.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 205.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 205.
+(hyperref)                removing `\hfill' on input line 216.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 206.
+(Font)              <7> on input line 217.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 206.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+(Font)              <5> on input line 217.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
  ("aaron wubshet.aux")
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 226.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
  ) 
 Here is how much of TeX's memory you used:
  21908 strings out of 427899
  391515 string characters out of 3151983
- 469514 words of memory out of 3000000
+ 470482 words of memory out of 3000000
  25653 multiletter control sequences out of 15000+200000
  4272 words of font info for 49 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  52i,6n,119p,10491b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on aaron wubshet.xdv (1 page, 39152 bytes).
+Output written on aaron wubshet.xdv (1 page, 39280 bytes).
